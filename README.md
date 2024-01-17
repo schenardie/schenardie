@@ -4,7 +4,7 @@
 [![Follow on Twitter][badge_twitter]][link_twitter]
 [![Check my blog][badge_blog]][link_blog]
 
-![](https://komarev.com/ghpvc/?username=schenardie)
+![](https://komarev.com/ghpvc/?username=schenardie&color=brightgreen)
 <!--
 **schenardie/schenardie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
